@@ -1,2 +1,2 @@
 # VideoGameDevelopment
-Video Games I Am Developing
+Practice using Unity and Blender to create video games.
